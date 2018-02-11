@@ -27,11 +27,16 @@ img{
 }
 
 .aboutme{
-
+width:650px;
 }
 
 .contactform{
+width:650px;
+}
 
+.icon{
+    width:50px;
+    height:50px;
 }
 
 .listnav {
@@ -39,17 +44,25 @@ img{
 }
 
 .maincontent{
-
+width:960px;
 }
 
 .nametag{
 
 }
 
-.portfolioimage{
-    
+.portfoliocontent{
+width:650px;    
+}
+
+.profileicon{
+    display:inline-block;
 }
 
 .sidebar {
+width:270px;
+}
 
+ul{
+    padding:0px;
 }
